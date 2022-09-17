@@ -1,12 +1,12 @@
 Summary:	xisxwayland tool to check whether X server is Xwayland
 Summary(pl.UTF-8):	Narzędzie xisxwayland do sprawdzania, czy serwer X to Xwayland
 Name:		xorg-app-xisxwayland
-Version:	1
+Version:	2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	https://xorg.freedesktop.org/releases/individual/app/xisxwayland-%{version}.tar.xz
-# Source0-md5:	c4a140eb71ddd8aff9a5ac8e5d2404c4
+# Source0-md5:	f13f49dd8330d59d684b09c625bf05fe
 URL:		https://xorg.freedesktop.org/
 BuildRequires:	meson >= 0.41.0
 BuildRequires:	ninja >= 1.5
